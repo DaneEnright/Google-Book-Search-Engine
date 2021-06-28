@@ -92,7 +92,7 @@ You’ll need to complete the following tasks in each of these back-end files:
 
 * `auth.js`: Update the auth middleware function to work with the GraphQL API.
 
-	**Hint**: Refer to the class activities as a refresher on how to do this.
+	**Hint**: Refer to the class activities as a refresher on how to do this. ASK ABOUT THIS
 
 * `Schemas` directory:
 
